@@ -1,5 +1,7 @@
 ht=float(input("Enter the height(cm):"))
+
 wt=float(input("Enter the Weight(kg):"))
+
 h=ht/100
 bmi=wt/(h**2)
 if(bmi<=16):
