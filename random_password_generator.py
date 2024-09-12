@@ -1,4 +1,5 @@
 import random
+
 import string
 
 def generate_password(length, use_letters, use_numbers, use_symbols):
